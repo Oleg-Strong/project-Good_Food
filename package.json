@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AH400796.github.io/fson60-group-project-21",
+  "homepage": "https://Oleg-Strong.github.io/project-Good_Food",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /fson60-group-project-21/"
+    "build": "parcel build src/*.html --public-url /project-Good_Food/"
   },
   "repository": {
     "type": "git",
